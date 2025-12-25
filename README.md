@@ -58,7 +58,7 @@ Follow the on-screen prompts to:
 
 - Python 3.7+
 - Internet connection
-- Valid Battle Cats transfer codes
+- Valid REDACTED transfer codes
 
 ## Technical Highlights
 
@@ -77,7 +77,7 @@ Follow the on-screen prompts to:
 
 ## Credits
 
-Created by: Lethal / 1plus1equalswindow_ and JulietCat  
+Created by: REDACTED and JulietCat  
 Inspired by: csehydrogen and beeven
 
 ## License
