@@ -1,5 +1,6 @@
 # REDACTED Save Editor
-BC Editor (outdated/no longer in use)
+BC Editor (outdated/no longer in use)  
+THIS CODE DOES NOT WORK ANYMORE  
 A professional command-line tool for editing REDACTED save data via transfer codes.
 
 ## Features
@@ -12,18 +13,7 @@ A professional command-line tool for editing REDACTED save data via transfer cod
 
 ## Architecture
 
-The project follows a modular, object-oriented design:
-
-```
-bcceditor/
-├── main.py           # Application entry point and main workflow
-├── config.py         # Configuration constants and paths
-├── network.py        # Network operations and API handling
-├── save_editor.py    # Save file manipulation logic
-├── ui.py             # User interface and display handlers
-├── utils.py          # Utility functions
-└── requirements.txt  # Python dependencies
-```
+The project follows a modular, object-oriented design
 
 ### Key Components
 
