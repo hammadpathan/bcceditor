@@ -35,7 +35,7 @@ env/
 .DS_Store
 
 # Save Data (don't commit user data)
-SAVE_DATA*
+# SAVE_DATA*
 BackupSave*
 
 # Logs
@@ -45,7 +45,7 @@ BackupSave*
 *.pem
 
 # Executables
-*.exe
+# *.exe
 *.dll
 *.so
 *.dylib
