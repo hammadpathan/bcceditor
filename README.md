@@ -1,5 +1,6 @@
 # BC Save Editor
 
+OUTDATED / NO LONGER WORKS
 A professional command-line tool for editing REDACTED save data via transfer codes.
 
 ## Features
