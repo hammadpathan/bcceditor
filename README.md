@@ -66,7 +66,7 @@ Follow the on-screen prompts to:
 
 ## Credits
 
-Created by: Lethal / 1plus1equalswindow_ and JulietCat  
+Created by: Me and JulietCat  
 Inspired by: csehydrogen and beeven
 
 ## License
