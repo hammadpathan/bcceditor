@@ -1,6 +1,6 @@
-# Battle Cats Save Editor
+# BC Save Editor
 
-A professional command-line tool for editing Battle Cats save data via transfer codes.
+A professional command-line tool for editing REDACTED save data via transfer codes.
 
 ## Features
 
@@ -31,7 +31,7 @@ bcceditor/
 - **NetworkHandler**: Handles all API interactions (download/upload saves, server checks)
 - **SaveEditor**: Binary file manipulation with context manager support
 - **UIHandler**: Clean separation of presentation logic with colored output
-- **BattleCatsEditor**: Main orchestrator class coordinating all components
+- **REDACTEDEditor**: Main orchestrator class coordinating all components
 
 ## Installation
 
