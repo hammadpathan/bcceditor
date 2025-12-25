@@ -7,7 +7,7 @@
 │                          main.py                            │
 │                                                             │
 │  ┌───────────────────────────────────────────────────────┐ │
-│  │           BattleCatsEditor (Main Class)               │ │
+│  │             REDACTEDEditor (Main Class)               │ │
 │  │                                                       │ │
 │  │  - Orchestrates entire workflow                      │ │
 │  │  - Manages application state                         │ │
@@ -80,7 +80,7 @@
 
 ```
 1. User Start
-   └─> main.py initializes BattleCatsEditor
+   └─> main.py initializes REDACTEDEditor
        
 2. Welcome & Server Check
    └─> UIHandler.show_welcome()
@@ -129,7 +129,7 @@ def mainmenu():
     # 200 lines of mixed logic...
 
 # Refactored modular approach
-class BattleCatsEditor:
+class REDACTEDEditor:
     def _edit_save(self):
         with SaveEditor(self.save_path) as editor:
             choice = self.ui.show_main_menu()

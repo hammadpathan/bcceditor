@@ -1,5 +1,5 @@
 """
-Utility functions for Battle Cats Save Editor.
+Utility functions for REDACTED Save Editor.
 Contains helper functions for various operations.
 """
 import ctypes

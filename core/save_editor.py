@@ -1,5 +1,5 @@
 """
-Save file editing module for Battle Cats Save Editor.
+Save file editing module for REDACTED Save Editor.
 Handles reading, modifying, and patching save data.
 """
 import binascii
@@ -7,7 +7,7 @@ import hashlib
 import os
 from typing import Optional
 
-from config import Config
+from core.config import Config
 
 
 class SaveEditor:

@@ -1,6 +1,5 @@
-# BC Save Editor
-
-OUTDATED / NO LONGER WORKS
+# REDACTED Save Editor
+BC Editor (outdated/no longer in use)
 A professional command-line tool for editing REDACTED save data via transfer codes.
 
 ## Features
@@ -32,7 +31,7 @@ bcceditor/
 - **NetworkHandler**: Handles all API interactions (download/upload saves, server checks)
 - **SaveEditor**: Binary file manipulation with context manager support
 - **UIHandler**: Clean separation of presentation logic with colored output
-- **REDACTEDEditor**: Main orchestrator class coordinating all components
+- **BCEditor**: Main orchestrator class coordinating all components
 
 ## Installation
 
@@ -77,7 +76,7 @@ Follow the on-screen prompts to:
 
 ## Credits
 
-Created by: REDACTED and JulietCat  
+Created by: Lethal / 1plus1equalswindow_ and JulietCat  
 Inspired by: csehydrogen and beeven
 
 ## License

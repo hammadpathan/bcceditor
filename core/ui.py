@@ -1,5 +1,5 @@
 """
-User interface module for Battle Cats Save Editor.
+User interface module for REDACTED Save Editor.
 Handles all console output and user input.
 """
 import sys

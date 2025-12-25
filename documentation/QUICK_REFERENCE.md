@@ -9,7 +9,7 @@
 | **network.py** | 145 | API interactions | `NetworkHandler` class |
 | **save_editor.py** | 226 | Save file manipulation | `SaveEditor` class |
 | **ui.py** | 156 | User interface | `UIHandler` class |
-| **main.py** | 189 | Application entry point | `BattleCatsEditor` class |
+| **main.py** | 189 | Application entry point | `REDACTEDEditor` class |
 
 ## Module Dependencies
 

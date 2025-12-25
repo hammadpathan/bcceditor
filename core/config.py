@@ -1,5 +1,5 @@
 """
-Configuration module for Battle Cats Save Editor.
+Configuration module for REDACTED Save Editor.
 Contains all constants, paths, and configuration settings.
 """
 import os
@@ -17,7 +17,7 @@ class Config:
     URL_TRANSFER_RECEPTION = "https://nyanko-save.ponosgames.com/v1/transfers/{}/reception"
     URL_BACKUP_DELETE = "https://nyanko-backups.ponosgames.com/?action=delete&accountId=transfer&pin=confirmation&country=en"
     URL_STORE = "https://nyanko.ponosgames.com/?action=store&country=en"
-    URL_VERSION_CHECK = "http://1plus1equalswindow.pythonanywhere.com/"
+    URL_VERSION_CHECK = "http://REDACTED.pythonanywhere.com/"
     
     # Client information for API requests
     CLIENT_INFO = {

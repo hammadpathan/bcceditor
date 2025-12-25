@@ -1,5 +1,5 @@
 """
-Network operations module for Battle Cats Save Editor.
+Network operations module for REDACTED Save Editor.
 Handles all API interactions with the game servers.
 """
 import hashlib
@@ -12,7 +12,7 @@ from typing import Dict, Tuple, Optional
 import requests
 from requests import Session
 
-from config import Config
+from core.config import Config
 
 
 class NetworkHandler:

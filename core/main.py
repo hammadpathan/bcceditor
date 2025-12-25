@@ -1,18 +1,18 @@
 """
-Main entry point for Battle Cats Save Editor.
+Main entry point for REDACTED Save Editor.
 Orchestrates the entire save editing workflow.
 """
 import sys
 
-from config import Config
-from network import NetworkHandler
-from save_editor import SaveEditor
-from ui import UIHandler
-from utils import set_console_title, delete_file
+from core.config import Config
+from core.network import NetworkHandler
+from core.save_editor import SaveEditor
+from core.ui import UIHandler
+from core.utils import set_console_title, delete_file
 
 
-class BattleCatsEditor:
-    """Main application class for the Battle Cats Save Editor."""
+class BCEditor:
+    """Main application class for the REDACTED Save Editor."""
     
     def __init__(self):
         """Initialize the editor with necessary components."""
@@ -214,7 +214,7 @@ class BattleCatsEditor:
 
 def main():
     """Main entry point for the application."""
-    editor = BattleCatsEditor()
+    editor = BCEditor()
     sys.exit(editor.run())
 
 

@@ -8,22 +8,22 @@ def test_imports():
     print("Testing imports...")
     
     try:
-        import config
+        import core.config as config
         print("✓ config.py imported successfully")
         
-        import utils
+        import core.utils as utils
         print("✓ utils.py imported successfully")
         
-        import network
+        import core.network as network
         print("✓ network.py imported successfully")
         
-        import save_editor
+        import core.save_editor as save_editor
         print("✓ save_editor.py imported successfully")
         
-        import ui
+        import core.ui as ui
         print("✓ ui.py imported successfully")
         
-        import main
+        import core.main as main
         print("✓ main.py imported successfully")
         
         print("\n✅ All modules imported successfully!")
